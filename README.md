@@ -44,4 +44,4 @@ O repositório está organizado por capítulos, cada um com exercícios de conso
 
 ## ✍️ Autor
 
-Luan
+Luan Duarte
