@@ -26,7 +26,7 @@ Aqui você vai encontrar:
 
 - [x] Variáveis
 - [x] Tipos de dados
-- [ ] Condicionais
+- [x] Condicionais
 - [ ] Laços
 - [ ] Funções
 
