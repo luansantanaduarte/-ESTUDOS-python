@@ -92,7 +92,8 @@ print("R$ %.2f" % valor) # ? Sintaze -> "%.(número de casas)f"
 
 # Podemos mudar mais de um valor.
 print("%s tem %d anos e apenas R$ %.2f no bolso." % ("Lucas", 22, 51.34))
-# Forma mais moderna -> format().
+
+# ? Forma mais moderna -> format().
 nome = "João"
 anos = 22
 grana = 51.34656
@@ -106,6 +107,22 @@ print(z[0:2]) # Fatiamento da posição 0 a 1 (não inclui a posição 2).
 # Podemos omitir o início ou fim indicando que são todos os termos até determinado ponto.
 print(z[2:])
 # Números negativos podem ser usados para representar os valores a contar do último até o primeiro (-1 - último, -2 - penúltimo...).
+
+# Sequência de tempo - Váriáveis podem mudar de valor ao longo do código.
+
+# Rastreamento - Capacidade de analisarmos linha a linha um programa buscando erros ou incoerências.
+
+# ! Entrada de dados
+# Capacidade de obtermos dados de fora do código, a partir do usário ou arquivo.
+# * Função input() -> Responsável por recolher a mensagem do usuário 
+# ? Sintaxe -> input("Texto a ser exibido")
+nome = input("Digite seu nome ")
+print("Você digitou %s" % nome)  # Utilização da composição
+print("Olá, {}" .format(nome)) # Utilização do .format
+
+# A função input sempre retorna um valor em string. Para realizar as transformações fazemos:
+anos = int(input("Anos de serviço: ")) # Transforma a string em int. O mesmo se aplica para float() ou str()
+
 
 
 
