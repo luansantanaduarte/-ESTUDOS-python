@@ -36,6 +36,7 @@ O repositório está organizado por capítulos, cada um com exercícios de conso
 - Capítulo 1 - Introdução
 - Capítulo 2 - Instalação e começo das discussões sobre variáveis
 - Capítulo 3 - Váriaveis e tipos de dados
+- Capítulo 4 - Condições
 
 ## 🛠️ Tecnologias
 
