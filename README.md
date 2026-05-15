@@ -27,7 +27,7 @@ Aqui você vai encontrar:
 - [x] Variáveis
 - [x] Tipos de dados
 - [x] Condicionais
-- [ ] Laços
+- [x] Laços
 - [ ] Funções
 
 ## 📂 Estrutura do repositório
@@ -37,6 +37,7 @@ O repositório está organizado por capítulos, cada um com exercícios de conso
 - Capítulo 2 - Instalação e começo das discussões sobre variáveis
 - Capítulo 3 - Váriaveis e tipos de dados
 - Capítulo 4 - Condições
+- Capítulo 5 - Repetições
 
 ## 🛠️ Tecnologias
 
