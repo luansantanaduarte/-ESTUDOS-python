@@ -43,7 +43,6 @@ O repositório está organizado por capítulos, cada um com exercícios de conso
 
 - Python 3
 
-
 ## ✍️ Autor
 
 Luan Duarte
